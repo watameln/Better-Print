@@ -1,6 +1,10 @@
 # Better-Print
+
 Better way to print from your executor
 
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/watameln/Better-Print/refs/heads/main/src.luau"), true)()
+```
 
 https://github.com/user-attachments/assets/b1847454-0ba3-4186-871e-51cf0837a599
 
