@@ -1,6 +1,6 @@
 # Better-Print
 
-Better way to print from your executor
+Better way to print from your executor, Or studio.
 
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/watameln/Better-Print/refs/heads/main/src.luau"), true)()
